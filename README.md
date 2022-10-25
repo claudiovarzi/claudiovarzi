@@ -24,16 +24,6 @@
 
 <br clear="both">
 
-## 📞 Contact me
-  <div align="left">
-  <a href="https://www.linkedin.com/in/claudiovarzi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
-  </a>
-  <a href="https://claudiovarzi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%239968D9?style=for-the-badge" alt="portfolio-logo"/>
-  </a>
-</div>
-
 ## 🔧 Technologies and tools
 
 ###
@@ -50,4 +40,12 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-logo"/>
 </div>
 
-#
+## 📞 Contact me
+  <div align="left">
+  <a href="https://www.linkedin.com/in/claudiovarzi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://claudiovarzi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-PORTFOLIO-%239968D9?style=for-the-badge" alt="portfolio-logo"/>
+  </a>
+</div>
