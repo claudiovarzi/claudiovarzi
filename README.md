@@ -38,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode-logo"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="atom-logo"/>
@@ -51,5 +51,3 @@
 </div>
 
 #
-
-![](https://komarev.com/ghpvc/?username=saraivais&style=for-the-badge&color=5DC0C7)
