@@ -11,7 +11,7 @@
 <br><br>
 📖 I'm a Junior Frontend Web Developer
 <br><br>
-📚 Currently learning React, Wordpress and UX/UI Design
+📚 Currently learning React, WordPress and UX/UI Design
 <br><br>
 ✨ My hobbies are theater, movies & videogames, philosophy and hiking
 <br><br>
