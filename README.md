@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router-logo"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-logo"/>
-  <img src="https://img.shields.io/badge/WordPress-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux-logo"/>
+  <img src="https://img.shields.io/badge/WordPress-20232A?style=for-the-badge&logo=redux&logoColor=white" alt="redux-logo"/>
 </div>
 
 ## 📞 Contact me
